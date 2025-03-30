@@ -3,7 +3,7 @@
 .DS_Store
 
 # desktop workspace cache
-**/*/.obsidian/workspace.json
+.obsidian/workspace.json
 
 # mobile workspace cache
-**/*/.obsidian/workspace-mobile.json
+.obsidian/workspace-mobile.json
